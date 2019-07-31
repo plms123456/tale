@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#fist-left{
+    float: left;
+    width: 485px;
+    height: 142px;
+}
+#fist-right{
+    float: left;
+    width: 1760px;
+    background: beige;
+}
